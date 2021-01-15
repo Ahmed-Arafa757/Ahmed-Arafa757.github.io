@@ -1,0 +1,66 @@
+#Main {
+    background-color: rgb(236, 233, 233);
+
+}
+
+#left-pane {
+    margin-top: 10px;
+
+}
+
+#ppCard {
+    width: 300px
+}
+
+#pp {
+    width: 100%;
+}
+
+#ppOverlay {
+    position: relative;
+}
+
+#cardTitle {
+    position: absolute;
+    bottom: 35px;
+}
+
+#info {
+    padding-left: 10px;
+    color: rgb(3, 126, 118);
+    margin-bottom: 10px;
+}
+
+.coloring {
+    color: rgb(3, 126, 118);
+}
+
+.bgColor {
+    background-color: rgb(3, 126, 118);
+}
+
+#educationSection {
+    margin-top: 10px;
+}
+
+#workExp {
+    margin: 10px;
+}
+
+.calendarIcon {
+    margin-right: 5px;
+}
+
+#astric {
+    margin: 10px;
+}
+
+#footer {
+    background-color: rgb(3, 126, 118);
+    text-align: center;
+    color: white;
+}
+
+.iconSpacing {
+    margin-left: 8px;
+}
